@@ -1,5 +1,3 @@
-Hi there, I'm Zahid Hasan Dipu. You can call me Dipu 🙌🏻
+Hi, I am Zahid Hasan. You can call me Dipu 🙌🏻
 
-I have started my journey 20 years ago as a kindergarten student, till date, I am learning new things. Thanks to my mother who continuously gave me support to pursue my dream.
-Recently completed MS in Data Science from National University, San Diego. Leaning the MERN Stack (Mongo BD, Express JS, React JS, Node JS). 
-In my free time I explore the history of different countries, love playing soccer, big Champions League Football fan. Ex fastest man of Comilla Education Board.
+During my 8th standard, while my friends decided to pursue science, I decided to go with business because I wanted real-world business experience. Although working with data as an industry executive was a good experience, I wanted something challenging rather than regular data input and preparing financial statements. So I dived into the data world and completed my MS in Data Science. While doing that, I got to explore the software industry, and I found it exhilarating. I am currently learning MERN Stack (Mongo BD, Express JS, React JS, Node JS) to gain further knowledge. My greatest strength is I never fear making bold decisions. I am unique because I came from a business background, explored data science, and now implementing all those perspectives in the software industry. In my free time, I explore the history of different countries, love playing soccer, big Champions League Football fan. Ex-student leader and fastest man of Comilla Education Board.
